@@ -1,7 +1,7 @@
 # Hello, I'm Jack AKA Ethirix
 ## Want to reach me - Add me on Discord `Ethirix#9014`
 
-#### I'm an aspiring developer with an aim to become a games programmer!
+### I'm an aspiring developer with an aim to become a games programmer!
 
 
 <!--
