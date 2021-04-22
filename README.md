@@ -10,7 +10,6 @@ I'm currently taking: Maths, Physics and Computer Science.
 ---
 
 ## Active Projects
-
-[![Learning WPF](https://github-readme-stats.vercel.app/api/pin/?username=Ethirix&repo=Learning-MVVM-Pattern&theme=gotham&show_owner=true)](https://github.com/Ethirix/Learning-MVVM-Pattern)  
+[![Electron.NET Learning App](https://github-readme-stats.vercel.app/api/pin/?username=Ethirix&repo=Electron.NET-Learning-App&theme=gotham&show_owner=true)](https://github.com/Ethirix/Electron.NET-Learning-App)  
 [![Object Dodger](https://github-readme-stats.vercel.app/api/pin/?username=Ethirix&repo=ObjectDodger&theme=gotham&show_owner=true)](https://github.com/Ethirix/ObjectDodger)  
 [![Discord Bot](https://github-readme-stats.vercel.app/api/pin/?username=Ethirical-Productions&repo=Project-Erilum&theme=gotham&show_owner=true)](https://github.com/Ethirical-Productions/Project-Erilum)
