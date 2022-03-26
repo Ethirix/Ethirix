@@ -10,4 +10,4 @@ I'm currently taking: Maths, Physics and Computer Science.
 ---
 
 ## Active Projects
-[![Discord Bot](https://github-readme-stats.vercel.app/api/pin/?username=Ethirical-Productions&repo=Project-Erilum&theme=gotham&show_owner=true)](https://github.com/Ethirical-Productions/Project-Erilum)
+### NONE
