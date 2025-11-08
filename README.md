@@ -9,3 +9,6 @@ I'm at Staffordshire University, studying Computer Games Programming BSc (Hons).
 ## Active Projects
 [Connect Four Remake](https://github.com/Ethirix/connect-four-remake) - A remake of an old project I made in C# WPF. 
 This version will use Avalonia and use the ~5 years of experience I've gained since.
+
+[libswm](https://github.com/Ethirix/libswm) - an attempt at making (old-school) windows C++ programming easier.
+This project is mostly just for fun and to learn about Application-Binary Interfaces (ABI) and .DLL programming.
