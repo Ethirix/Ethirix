@@ -7,4 +7,5 @@ I hope in the future, after my journey though University to work in the Games In
 I'm at Staffordshire University, studying Computer Games Programming BSc (Hons).
 
 ## Active Projects
-### NONE
+[Connect Four Remake](https://github.com/Ethirix/connect-four-remake) - A remake of an old project I made in C# WPF. 
+This version will use Avalonia and use the ~5 years of experience I've gained since.
