@@ -1,12 +1,22 @@
 
 # Hello, I'm Jack
 
-I picked up C# in College and that founded my understanding of Programming. From there I started to learn C++ to become a bit more language-agnostic.
-I hope in the future, after my journey though University to work in the Games Industry as either a Tools or Engine Programmer.
+I come from a C# background, moving onto studying C++ in university for low level development and optimisation
+for real time applications. I’m quick to pick up new skills and have a strong grasp of programming fundamentals
+which I hope I can apply to new skill sets within a team which will help me develop my programming abilities
+further. Additionally, I am on the autism spectrum – neurodivergent.
 
-I'm at Staffordshire University, studying Computer Games Programming BSc (Hons).
+I have graduated with a BSc (Hons) Computer Games Programming (First Class Honours) at the University of Staffordshire.
 
 ## Active Projects
+### Volcanus Lucis
+[libvlengine](https://github.com/VolcanusLucis/libvlengine) - A graphical engine built majoritively from scratch using Vulkan and
+other `libvl-` libraries built for it.
+
+[libvlmath](https://github.com/VolcanusLucis/libvlmath) - A Linear Algebra Library to suppliment [libvlengine](https://github.com/VolcanusLucis/libvlengine). 
+Can be used standalone too, featuring matrix and vector mathematics as well as SIMD intrinsics. 
+
+### Other Projects
 [Connect Four Remake](https://github.com/Ethirix/connect-four-remake) - A remake of an old project I made in C# WPF. 
 This version will use Avalonia and use the ~5 years of experience I've gained since.
 
