@@ -4,9 +4,10 @@
 I come from a C# background, moving onto studying C++ in university for low level development and optimisation
 for real time applications. I’m quick to pick up new skills and have a strong grasp of programming fundamentals
 which I hope I can apply to new skill sets within a team which will help me develop my programming abilities
-further. Additionally, I am on the autism spectrum – neurodivergent.
+further.\
+Additionally, I am on the autistic spectrum – neurodivergent.
 
-I have graduated with a ***BSc (Hons) Computer Games Programming*** *(First Class Honours)* at the University of Staffordshire.
+I have graduated with a ***BSc (Hons) Computer Games Programming*** *(First Class Honours)* at the University of Staffordshire.\
 Now studying ***MSc Computer Science*** at the University of Staffordshire.
 
 ## Active Projects - TEMPORARILY PAUSED FOR MY MASTERS DEGREE
