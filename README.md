@@ -6,9 +6,10 @@ for real time applications. I’m quick to pick up new skills and have a strong 
 which I hope I can apply to new skill sets within a team which will help me develop my programming abilities
 further. Additionally, I am on the autism spectrum – neurodivergent.
 
-I have graduated with a BSc (Hons) Computer Games Programming (First Class Honours) at the University of Staffordshire.
+I have graduated with a ***BSc (Hons) Computer Games Programming*** *(First Class Honours)* at the University of Staffordshire.
+Now studying ***MSc Computer Science*** at the University of Staffordshire.
 
-## Active Projects
+## Active Projects - TEMPORARILY PAUSED FOR MY MASTERS DEGREE
 ### Volcanus Lucis
 [libvlengine](https://github.com/VolcanusLucis/libvlengine) - A graphical engine built majoritively from scratch using Vulkan and
 other `libvl-` libraries built for it.
